@@ -11,6 +11,7 @@ Passenger Class is made using Factory Pattern where Gold, Premium and Stamdard P
 The signUp service is used to register a passenger to an activity.
 Helper layer has classes used for printing logic
 Test package contains test cases.
+
 HLD
 
 ![HLD](https://github.com/shadan30/TravelSystemDesign/assets/37139445/635ace09-2072-4722-8787-f70f23cc7c70)
