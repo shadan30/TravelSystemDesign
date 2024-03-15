@@ -16,10 +16,4 @@ public class TravelPackage {
     private Integer capacity;
     private List<Destination> itinerary;
     private List<Passenger> passengers;
-    public String printItinerary() {
-        return "P";
-    }
-    public String printPassengerList() {
-        return "P";
-    }
 }
