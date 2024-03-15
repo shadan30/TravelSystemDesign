@@ -17,3 +17,7 @@ HLD
 ![HLD](https://github.com/shadan30/TravelSystemDesign/assets/37139445/635ace09-2072-4722-8787-f70f23cc7c70)
 
 
+LLD
+
+
+
