@@ -19,5 +19,5 @@ HLD
 
 LLD
 
-
+![LLD drawio](https://github.com/shadan30/TravelSystemDesign/assets/37139445/d8ee2781-ff14-46ce-966e-bc848484b725)
 
